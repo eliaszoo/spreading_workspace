@@ -1,0 +1,27 @@
+[
+    {
+        "id": "site1",
+        "name": "My Site1",
+        "title": "xxx",
+        "icon": "path/start/from/site/folder/to/icon",
+        "icon_redirect_url": "https://xxxx.spreading.ai",
+        "favicon": "path/start/from/site/folder/to/favicon",
+        "projects": [
+            "proj1",
+            "proj2"
+        ],
+        "domain": "my_site1.spreading.ai"
+    },
+     {
+        "id": "site2",
+        "name": "My Site2",
+        "title": "xxx",
+        "icon": "path/start/from/site/folder/to/icon",
+        "icon_redirect_url": "https://xxxx.spreading.ai",
+        "favicon": "path/start/from/site/folder/to/favicon",
+        "projects": [
+            "proj3"
+        ],
+        "domain": "my_site2.spreading.ai"
+    }
+]
